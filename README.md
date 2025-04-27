@@ -1,8 +1,2 @@
-main.local.local
-{
+The proposal of this project is work to development a AI tony stark visualizer
 
-subject.default.log.system
-system= log void
-
-while ()
-user = default.log = 0 
